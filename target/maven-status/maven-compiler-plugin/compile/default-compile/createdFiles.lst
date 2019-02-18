@@ -1,0 +1,5 @@
+com\karen\ssm\service\UserService.class
+com\karen\ssm\model\User.class
+com\karen\ssm\dao\UserDao.class
+com\karen\ssm\service\UserServiceImpl.class
+com\karen\ssm\controller\UserController.class
