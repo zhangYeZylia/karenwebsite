@@ -10,11 +10,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.karen.ssm.model.User;
 import com.karen.ssm.service.UserService;
 
-/**
- * @author xsansan
- * @date 2018年8月8日
- * Description:
- */
+
 @Controller
 @RequestMapping("/user")
 public class UserController {
