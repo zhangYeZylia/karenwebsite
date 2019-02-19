@@ -1,10 +1,5 @@
 package com.karen.ssm.model;
 
-/**
- * @author xsansan
- * @date 2018年8月8日
- * Description:
- */
 public class User {
     private Integer userId;
     private String userName;
